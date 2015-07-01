@@ -1,0 +1,12 @@
+Operator:
+1. operator bisa memesankan buku untuk pengguna.
+2. operator bisa mengembalikan buku dari pengguna.
+3. operator bisa meminjamkan buku dari pemesan buku (pengguna).
+
+Member:
+1. Member bisa memesan buku.
+2. Member bisa melihat list buku yang lewat batas pengembalian.
+3. Member hanya bisa memesan/meminjam buku 5.
+4. Member hanya bisa memesan/meminjam buku dengan 1 judul yang sama.
+5. Member tidak bisa memesan buku jika tidak memiliki nama.
+6. Member bisa mencari buku berdasarkan judul.
