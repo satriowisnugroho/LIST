@@ -2,7 +2,7 @@
 Library Information System
 
 ## Installation
-1. `git clone git@gitlab.geekgarden.id:wisnu/pelatihan.git your-app-name-here`
+1. `git clone git@github.com:satriowisnugroho/LIST.git your-app-name-here`
 2. `cd your-app-name-here`
 3. `composer install -vvv`
 4. `cp .env.example .env`
